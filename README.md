@@ -1,4 +1,4 @@
-# Shell-scripts
+# Shell-automata
 
 
 Setting up similar development environment everytime you make a new project can be tiring. 
