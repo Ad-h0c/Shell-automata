@@ -37,6 +37,8 @@ Finally,
 
 `./tailwindcss.sh`
 
+As the installation will be done inside new directory, make sure to run the shell script where you want to create the project.
+
 This is it. Follow the instructions for smooth instllation.
 
 Also, do remember you may need to put efforts couple for installation as this is not perfect script yet.
