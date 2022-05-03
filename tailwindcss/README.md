@@ -8,9 +8,9 @@ __Google definition:__ Tailwind CSS is self-described as a utility first CSS fra
 
 ### The problem and solution.
 
-Now moving on to the problem, altough tailwind css is a greaty utility css framework, installing everytime we make a project can be real pain. It's especially true in the learning phase. So I decided to write a small script to execute series of tailwind css comands.
+Now moving on to the problem, although tailwind css is a greaty utility css framework, installing everytime we make a project can be real pain. It's especially true in the learning phase. So I decided to write a small script to execute series of tailwind css comands.
 
-Before moving forward, you should know about npm and how does it work. And along with npm there is an external tool that I have used to make installation elegant. Also you should know how to edit json file. While the script install everything for you, you will have put some effort at couple times though its literally spoon-feeding.
+Before moving forward, you should know about npm and how does it work. And along with npm there is an external tool that I have used to make installation look elegant. Also you should know how to edit json file. While the script install everything for you, you will have put some effort at couple times though its literally spoon-feeding.
 
 The neccesary tool you need for this script to run is npm which comes in package when you install node.js.
 
@@ -27,7 +27,7 @@ You don't need to worry about this tool cause as long as you run the script it w
 
 ### Installation:
 
-After cloning the repository, you may need to change the bash file executable file. Which can done by the following command.
+After cloning the repository, you may need to change the script to an executable file. Which can done by the following command.
 
 `chmod +x tailwindcss.sh`
 
