@@ -49,6 +49,10 @@ npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffl
 
 echo 'require("@nomiclabs/hardhat-waffle");' >>hardhat.config.js
 
+mkdir contracts
+
+mkdir test
+
 echo "     ______      _   __        ____  "
 echo "    / ____/     / | / /       / __ \ "
 echo "   / __/       /  |/ /       / / / / "
