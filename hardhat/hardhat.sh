@@ -32,9 +32,12 @@ if ! command -v nodejs &>/dev/null; then
   sudo apt-get install -y nodejs
 fi
 
-mkdir hardhat-tutorial
+echo -n "Enter the directory name: " | pv -qL 80
 
-cd hardhat-tutorial
+read dir
+
+mkdir $dir && cd $dir
+
 
 npm init
 
